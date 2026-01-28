@@ -1,4 +1,4 @@
-# Hi, I'm Sushant 👋
+# Hi, I'm Sushant 
 
 I'm a Computer Science student learning **WordPress development** and **PHP**, with a focus on writing clean code and contributing to open source.
 
